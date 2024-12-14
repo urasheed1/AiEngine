@@ -38,7 +38,7 @@ Ensure you have the following installed on your machine:
 2. **Navigate to the Project Directory:**
 
    ```bash
-   cd ai-answer-engine
+   cd AiEngine
    ```
 
 3. **Install Dependencies:**
