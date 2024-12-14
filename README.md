@@ -1,7 +1,4 @@
 # AI Answer Engine
-
-![AI Answer Engine Logo]
-
 ## Overview
 
 The **AI Answer Engine** is a sophisticated application that leverages AI and web scraping technologies to provide intelligent responses based on user queries and real-time web content. It integrates:
